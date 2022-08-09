@@ -17,3 +17,5 @@
 #include "dcmtk/dcmdata/dctk.h"
 
 #include "frangi.h"
+
+// eND OF fILE
