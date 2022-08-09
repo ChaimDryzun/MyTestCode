@@ -7,6 +7,7 @@
 #include <stdio.h> 
 #include <stdlib.h> 
 #include <algorithm>
+#include <math>
 
 #include <opencv2/core.hpp>
 #include <opencv2/imgcodecs.hpp>
@@ -17,3 +18,5 @@
 #include "dcmtk/dcmdata/dctk.h"
 
 #include "frangi.h"
+
+// eND OF fILE
